@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-💻 **Software Engineer** | 📚 **Master’s Student**  
+💻 **Software Engineer** | 📚 **Master’s Student of Software, web & Cloud computing**  
 🤖 Passionate about **AI, Web Dev, Cloud**  
 🌍 Exploring **Gen AI & Full-Stack Dev**  
 💡 Always learning new things!  
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,react,nodejs,aws,mysql,git,github,html,css,sass,docker,gitlab,git,vscode,opencv,pytorch,huggingface,mvc,microservices" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,react,nodejs,aws,mysql,git,github,html,css,sass,docker,gitlab,git,vscode,opencv,pytorch,huggingface,mvc,microservices," />
 </p>
 
 ---
