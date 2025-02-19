@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arash Ghasemzadeh 👋</h1>
+<h1 align="center">Hi there, I'm Arash Ghasemzadeh Kakroudi 👋</h1>
 <h3 align="center">Software Engineer | AI & Web Enthusiast | Master's Student @ Tampere University</h3>
 
 <p align="center">
@@ -17,15 +17,8 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,react,nodejs,aws,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,react,nodejs,aws,mysql,git,github,html,css,sass" />
 </p>
-
----
-
-### 🔥 Featured Projects  
-📌 **[Twitter-Like Web App](https://github.com/Arashghsz/twitter-like-web-app)** – PHP, SQL, MVC  
-📌 **[Crypto News Tracker](https://github.com/Arashghsz/crypto-news-tracker)** – Node.js, React  
-📌 **[Brain Image Processing](https://arashghsz.com/)** – AI, Python  
 
 ---
 
