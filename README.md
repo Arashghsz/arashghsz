@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arash Ghasemzadeh Kakroudi 👋</h1>
-<h3 align="center">Software Engineer | AI & Web Enthusiast | Master's Student @ Tampere University</h3>
+<h3 align="center">Software Engineer | AI & Web Enthusiast | Master's Student @ Tampere University, Finland</h3>
 
 <!-- <p align="center">
 <!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"> -->
