@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 💻 **Software Engineer** | 📚 **Master’s Student of Software, web & Cloud computing**  
-🤖 Passionate about **AI, Web Dev, Cloud**  
+🤖 Passionate about **AI, Web Dev, Cloud & Software Architect**  
 🌍 Exploring **Gen AI & Full-Stack Dev**  
 💡 Always learning new things!  
 
