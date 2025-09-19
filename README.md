@@ -24,7 +24,7 @@
 - <img src="https://skillicons.dev/icons?i=azure"/> [AZ-305 Microsoft Azure Architect Design Prerequisites (07/2025)](https://learn.microsoft.com/en-us/users/arashghasemzadehkakroudi-3434/achievements/8z53zblw)  
 - <img src="https://skillicons.dev/icons?i=aws"/> [MLOps on AWS using AWS SageMaker (09/2025)](https://www.linkedin.com/in/arashghsz/overlay/1756807200640/single-media-viewer/?profileId=ACoAACydV_cBKPEEglvoIHMDncQJNEvOsgm3ndI)  
 - <img src="https://skillicons.dev/icons?i=aws"/> [Building Generative AI Applications Using Amazon Bedrock (08/2025)](https://www.linkedin.com/in/arashghsz/overlay/1755542109648/single-media-viewer/?profileId=ACoAACydV_cBKPEEglvoIHMDncQJNEvOsgm3ndI)  
-- <img src="https://skillicons.dev/icons?i=docker, gitlab, githubactions, terraform, ansible, gradana"/> [Introduction to DevOps (07/2022)](https://www.coursera.org/account/accomplishments/verify/2YC4AG5DP4MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+- <img src="https://skillicons.dev/icons?i=githubactions"/> [Introduction to DevOps (07/2022)](https://www.coursera.org/account/accomplishments/verify/2YC4AG5DP4MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
 
 
 
