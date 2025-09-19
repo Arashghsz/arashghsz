@@ -18,10 +18,13 @@
 
 ---
 
-### 🏅 Certifications  
+### 🏅 Certifications   
 <p align="center">
-<iframe name="acclaim-badge" allowtransparency="true" frameborder="0" id="embedded-badge-7370eca5-9a44-4760-bc03-69153c2650e4" scrolling="no" src="https://www.credly.com/embedded_badge/7370eca5-9a44-4760-bc03-69153c2650e4" style="width: 100%px; height: 270px;" title="View my verified achievement on Credly." spellcheck="false" aria-label="To enrich screen reader interactions, please activate Accessibility in Grammarly extension settings"></iframe>
+  <a href="https://www.credly.com/badges/7370eca5-9a44-4760-bc03-69153c2650e4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0e8280b9-0c3c-4b8e-87a3-37a3d31c8a92/image.png" width="120" alt="AWS Certified Solutions Architect – Associate"/>
+  </a>
 </p>
+
 
 ---
 
